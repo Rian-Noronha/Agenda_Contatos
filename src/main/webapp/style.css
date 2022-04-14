@@ -1,0 +1,79 @@
+@charset "utf-8";
+
+body{
+	
+	 font-family: "Times New Roman", Times, serif;
+	 font-size: 1em;
+	 font-weight: 400;
+	
+}
+
+h1{
+	color: #66bbff;
+}
+
+.botao1{
+	background-color: #66bbff;
+	text-decoration: none;
+	padding: 5px 10px 5px 10px;
+	color: #FFF;
+	font-size: 1.2em;
+	font-weight: 700;
+	border-radius: 5px;
+	border: 0;
+	cursor: pointer;
+}
+
+.botao2{
+	background-color: #d51213;
+	text-decoration: none;
+	padding: 5px 10px 5px 10px;
+	color: #FFF;
+	font-size: 1.2em;
+	font-weight: 700;
+	border-radius: 5px;
+}
+
+
+.caixa1{
+	width: 320px;
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid #66bbff;
+	border-radius: 5px;
+}
+
+.caixa2{
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid #66bbff;
+	border-radius: 5px;
+}
+
+#caixa3{
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid red;
+}
+
+#tabela{
+	margin-top: 30px;
+	border-collapse: collapse;
+}
+
+#tabela th{
+	border: 1px solid #ddd;
+	paddign: 10px;
+	text-align: left;
+	background-color: #66bbff;
+	color: #fff;
+}
+
+#tabela td{
+	border: 1px solid #ddd;
+	paddign: 10px;
+}
+
+
+
+
